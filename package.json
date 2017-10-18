@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.1",
+  "description": "Test anything here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenadotedu/test.git"
+  },
+  "author": "Elena Filatova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elenadotedu/test/issues"
+  },
+  "homepage": "https://github.com/elenadotedu/test#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-release": "^0.14.0"
+  }
+}
